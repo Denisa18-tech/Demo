@@ -1,5 +1,7 @@
 # This is my First Git Repository 🚀<br>
 
-This is my first GitHub repository created as part of my learning journey in software development.<br>
+About This Repository
+
+This repository is created as part of my learning and professional development journey in software engineering. It contains practice code, notes, and hands-on implementations of various technologies including .NET, C#, SQL, Git, and software development concepts.<br>
 
 Author - Denisa Khodbhaya
